@@ -1,5 +1,5 @@
 alp = ['c=','c-','dz=','d-','lj','nj','s=','z=']
-a = "ljes=njak"
+a = "ddz=z="
 for i in alp:
     a=a.replace(i,'*')
 print(a)
